@@ -1,0 +1,82 @@
+[
+  {
+    "type": "subdomain",
+    "subdomain": "sangamam.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939462"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "qa.scani5.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939500"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "shaastra.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939504"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "beta.vortex.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939507"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "www.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939510"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "glitch.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939512"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "nullcon2026.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939515"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "beta.skillhub.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939518"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "certificate.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939521"
+  },
+  {
+    "type": "subdomain",
+    "subdomain": "itsupport.sq1.security",
+    "timestamp": "2026-05-12T12:46:04.939524"
+  },
+  {
+    "type": "url_discovered",
+    "url": "http://127.0.0.1:8080",
+    "timestamp": "2026-05-12T12:45:32.783740"
+  },
+  {
+    "type": "url_discovered",
+    "url": "https://example.org/FUZZ",
+    "timestamp": "2026-05-12T12:45:32.783774"
+  },
+  {
+    "type": "url_discovered",
+    "url": "https://example.org/",
+    "timestamp": "2026-05-12T12:45:32.783778"
+  },
+  {
+    "type": "url_discovered",
+    "url": "https://example.org/",
+    "timestamp": "2026-05-12T12:45:32.783781"
+  },
+  {
+    "type": "url_discovered",
+    "url": "https://example.org/?PARAM=VAL",
+    "timestamp": "2026-05-12T12:45:32.783783"
+  },
+  {
+    "type": "url_discovered",
+    "url": "https://github.com/ffuf/ffuf",
+    "timestamp": "2026-05-12T12:45:32.783786"
+  }
+]
